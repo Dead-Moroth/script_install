@@ -1,4 +1,4 @@
-Run: bash multiple-git-clone.sh repos.list
+Run: bash start.sh repos.list
 
 NGrok Auth-Token: 1urdiSOReisSa3zNukUwz6ImG0J_5nHdozyuArhn8oaz5AYZJ
 
