@@ -2,7 +2,7 @@
 
 readarray array <<< $( cat "$@" )
 
-mkdir -p ~/git && cd ~/git
+mkdir -p ~/Programs && cd ~/Programs
 
 for element in ${array[@]}
 do
